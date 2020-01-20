@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Web Viewer</string>
+    <string name="app_title">Please choose a website</string>
+    <string name="uscd_website">UCSD Extension</string>
+    <string name="uscd_tag">uscd</string>
+    <string name="uscd_website_url">"https://extension.ucsd.edu/"</string>
+    <string name="meme_website">Make A Meme</string>
+    <string name="meme_website_url">https://makeameme.org</string>
+    <string name="meme_tag">meme</string>
+    <string name="button_text">Go</string>
+</resources>
